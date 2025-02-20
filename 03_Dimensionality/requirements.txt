@@ -1,0 +1,7 @@
+astroML
+matplotlib
+numpy
+pooch
+scipy
+scikit-learn
+vip_hci
